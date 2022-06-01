@@ -4,7 +4,7 @@
 
 ## 📖 Sobre
 
-Projeto Web Awax, desenvolvido durante meus estudos com HTML5 e CSS3 puro.
+Projeto Web Awax, desenvolvido durante meus estudos com HTML5 e CSS3 puro. <br>
 O projeto conta com responsividade mobile.
 
 
