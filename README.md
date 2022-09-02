@@ -1,15 +1,19 @@
+
 <h1 align="center">Projeto Web Awax</h1>
 
+## Principais Tecnologias Usadas 📓
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li> 
+</ul>
 
+## Projeto 💻
+Este projeto foi feito para fins de estudos e tem como objetivo simular um site comercial. Para estilização dá página foi usado um arquivo CSS3 (style.css).
 
-## 📖 Sobre
+## Para testar
+Projeto foi postado no GitHub Pages, para testes <a href="https://devmayara.github.io/awax/">clique aqui!</a>
 
-Projeto Web Awax, desenvolvido durante meus estudos com HTML5 e CSS3 puro. <br>
-O projeto conta com responsividade mobile.
-
-
-## 📖 Demonstração: https://devmayara.github.io/awax/
-
+## 📖 Demonstração:
 <div>
   <img height="350" src="https://raw.githubusercontent.com/devmayara/awax/main/assets/LAYOUT_DESKTOP.jpg" style="max-width:200%;"/>
 </div>
